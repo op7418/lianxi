@@ -17,9 +17,3 @@ const IndexPage = () => (
   </Layout>
 )
 
-export default IndexPage
-// git init
-// git add README.md
-// git commit -m "first commit"
-// git remote add origin https://github.com/op7418/lianxi.git
-// git push -u origin master
